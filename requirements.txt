@@ -19,8 +19,6 @@ filetype==1.2.0
 Flask==3.1.2
 frozenlist==1.7.0
 fsspec==2025.9.0
-# Editable install with no version control (Generative-AI-Project==0.0.0)
--e e:\medical\end-to-end-medical-chatbot-generative-ai
 google-ai-generativelanguage==0.6.15
 google-api-core==2.25.1
 google-api-python-client==2.181.0
