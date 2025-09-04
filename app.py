@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import google.generativeai as genai
 from langchain_pinecone.vectorstores import PineconeVectorStore
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 import os
 
