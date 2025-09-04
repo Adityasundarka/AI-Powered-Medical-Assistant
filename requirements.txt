@@ -1,6 +1,8 @@
 sentence-transformers==2.2.2
 langchain
 flask
+requests==2.31.0
+google-generativeai==0.1.0
 pypdf
 python-dotenv
 pinecone[grpc]
